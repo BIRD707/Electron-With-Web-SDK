@@ -40,7 +40,7 @@ import { SHARE_ID, RESOLUTION_ARR } from '@/utils/Settings'
 
         if (options.baseMode === 'avc') {
             // agora video call
-            options.key = 'PUT_YOUR_APPID_HERE'
+            options.key = 'a1fbaaf4575746728aa67487e54d20b0'
         }
         else {
             // agora live
